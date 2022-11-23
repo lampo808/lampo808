@@ -2,122 +2,26 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Hello! I am Marco Lamperti, untenured Assistant Professor (RTDA) of Physics at [University of Insubria](https://www.uninsubria.it/hpp/marco.lamperti), and this is my personal professional page.
 
-[Link to another page](./another-page.html).
+## Who
 
-There should be whitespace between paragraphs.
+I am an optical physicist working across quantum optics, absorption and fluorescence spectroscopy. I love to apply physics (especially if involves ultrafast lasers) to problems related to chemistry and biology. I am basically a [cat](https://twitter.com/ErrantScience/status/1443517386716557312?s=20&t=qZgHH1MQe_QfBP4PbLl_sQ).
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## What
 
-# Header 1
+I was born (scientifically) at **University of Insubria**, where I graduated (BS, MS and PhD) in physics, working on quantum optic and fluorescence spectroscopy for biophysical applications, possibly combining concepts from both worlds. I then moved to the [COSMOS Lab](https://www.polo-lecco.polimi.it/ricerca/laboratori-di-ricerca/cosmos-lab-comb-assisted-molecular-spectroscopy-laboratory) of **Politecnico di Milano** in the beautiful city of Lecco for 5+ years, where I learnt to work with optical frequency combs to do ultra-accurate rovibrational IR spectroscopy, for applications ranging from fundamental physics to combustion.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+In June 2022 I returned to Uninsubria, where I plan to integrate my expertise in IR/Raman laser spectroscopy and laser technology with the activities of the groups of Prof. Allevi, Dr. Bondani and Dr. Nardo.
 
-## Header 2
+Apart from research, I teach a [(hopefully) amazing course](https://www.uninsubria.eu/ugov/degreecourse/183377) where we explore the power of Python for real world data analysys problems.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## Why
 
-### Header 3
+What I love more of the academic environment is the contact with younger and older people bringing in their freshness and experience. I believe this is the soul of research, and I try to build around me a friendly environment where diversity (of all forms: of thoughts, first) is valued.
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+If you want to give your contribution, feel free to stop by for a chat and a coffee.
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+## Where
 
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+I am waiting for an official office. At the moment, you can find me in the Tower building in via Valleggio, third floor, most probably in either of the labs _Fotofisica e biomolecole_ (Dr. Luca Nardo) or _Ottica quantistica_ (Prof. Alessia Allevi and Maria Bondani).
