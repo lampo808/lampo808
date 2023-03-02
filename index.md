@@ -24,4 +24,4 @@ If you want to give your contribution, feel free to stop by for a chat and a cof
 
 ## Where
 
-I am waiting for an official office. At the moment, you can find me in the Tower building in via Valleggio, third floor, most probably in either of the labs _Fotofisica e biomolecole_ (Dr. Luca Nardo) or _Ottica quantistica_ (Prof. Alessia Allevi and Maria Bondani).
+My office is room 2.4 in the Tower building in via Valleggio, second floor. If I'm not there, I might be wandering at the third floor, most probably around either of the labs _Fotofisica e biomolecole_ (Prof. Luca Nardo) or _Ottica quantistica_ (Profs. Alessia Allevi and Maria Bondani).
